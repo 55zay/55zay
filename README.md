@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @55zay
+- 👀 I’m interested in coding languages
+- 🌱 I’m currently learning Lua, HTML, JavaScript, CSS, Python
+- 💞️ I’m looking to collaborate on Roblox
+- 📫 How to reach me: (DISCORD: _55zay)
